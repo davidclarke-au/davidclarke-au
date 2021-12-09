@@ -1,1 +1,3 @@
-<iframe frameborder="0" height="400" width="750" scrolling="yes" src="https://david-clarke.id.au"></iframe>
+<a href="https://david-clarke.id.au
+" target="_blank"><img src="https://david-clarke.id.au/images/logo.png" 
+alt="DC" width="500" height="100" border="1" /></a>
